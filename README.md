@@ -1,7 +1,3 @@
-Here's a sample `README.md` file for your **iMusic to Spotify Playlist Converter** project:
-
----
-
 # iMusic to Spotify Playlist Converter
 
 This project allows you to easily transfer playlists from Apple Music to Spotify. It uses **Selenium** to scrape song names from an Apple Music playlist and **Spotipy** (a Python client for the Spotify Web API) to search for these songs and create a playlist in Spotify.
