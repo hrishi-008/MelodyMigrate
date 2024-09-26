@@ -1,4 +1,4 @@
-# iMusic to Spotify Playlist Converter
+# MelodyMigrate - iMusic to Spotify Playlist Converter
 
 This project allows you to easily transfer playlists from Apple Music to Spotify. It uses **Selenium** to scrape song names from an Apple Music playlist and **Spotipy** (a Python client for the Spotify Web API) to search for these songs and create a playlist in Spotify.
 
@@ -26,8 +26,8 @@ Before running this project, ensure you have the following installed:
 ### Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/iMusic-to-Spotify-Converter.git
-cd iMusic-to-Spotify-Converter
+git clone https://github.com/hrishi-008/MelodyMigrate.git
+cd MelodyMigrate
 ```
 
 ### Install dependencies
@@ -110,7 +110,3 @@ Feel free to submit issues or pull requests for improvements and new features!
 
 - Thanks to [Spotipy](https://spotipy.readthedocs.io/en/2.24.0/) for simplifying the interaction with Spotify's API.
 - Thanks to the [Spotify Developer](https://developer.spotify.com) team for providing an excellent API!
-
----
-
-Let me know if you'd like any changes or additions!
